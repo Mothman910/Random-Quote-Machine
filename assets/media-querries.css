@@ -1,0 +1,7 @@
+@media (max-width: 480px) {
+  .signature {
+    font-size: 8px;
+    position: relative;
+    left: 10px;
+  }
+}
